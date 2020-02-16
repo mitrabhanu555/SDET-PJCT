@@ -1,0 +1,306 @@
+2020-02-14 17:20:28,618 [main] INFO sdet - browser opened
+2020-02-14 17:20:34,300 [main] INFO sdet - Entered UserName
+2020-02-14 17:20:38,929 [main] INFO sdet - Entered Password
+2020-02-14 17:20:47,889 [main] INFO sdet - Login Test Passed
+2020-02-14 18:09:56,477 [main] INFO sdet - browser opened
+2020-02-14 18:09:56,807 [main] INFO sdet - Entered UserName
+2020-02-14 18:10:00,442 [main] INFO sdet - Entered Password
+2020-02-14 18:10:05,305 [main] INFO sdet - Login Test Passed
+2020-02-15 10:27:28,999 [main] INFO sdet - browser opened
+2020-02-15 10:27:31,852 [main] INFO sdet - Entered UserName
+2020-02-15 10:27:34,124 [main] INFO sdet - Entered Password
+2020-02-15 10:27:42,318 [main] INFO sdet - Login Test Passed
+2020-02-15 14:12:51,650 [main] INFO sdet - browser opened
+2020-02-15 14:13:00,439 [main] INFO sdet - Entered UserName
+2020-02-15 14:13:02,886 [main] INFO sdet - Entered Password
+2020-02-15 14:13:11,150 [main] INFO sdet - Login Test Passed
+2020-02-15 14:14:41,114 [main] INFO sdet - browser opened
+2020-02-15 14:14:41,506 [main] INFO sdet - Entered UserName
+2020-02-15 14:14:44,357 [main] INFO sdet - Entered Password
+2020-02-15 14:19:20,993 [main] INFO sdet - browser opened
+2020-02-15 14:19:31,662 [main] INFO sdet - Entered UserName
+2020-02-15 14:19:34,124 [main] INFO sdet - Entered Password
+2020-02-15 14:41:28,790 [main] INFO sdet - browser opened
+2020-02-15 14:41:58,955 [main] INFO sdet - browser opened
+2020-02-15 14:41:59,374 [main] INFO sdet - Entered UserName
+2020-02-15 14:42:02,215 [main] INFO sdet - Entered Password
+2020-02-15 15:20:04,614 [main] INFO sdet - browser opened
+2020-02-15 15:20:05,146 [main] INFO sdet - Entered UserName
+2020-02-15 15:20:07,718 [main] INFO sdet - Entered Password
+2020-02-15 15:23:50,047 [main] INFO sdet - browser opened
+2020-02-15 15:23:50,478 [main] INFO sdet - Entered UserName
+2020-02-15 15:23:53,227 [main] INFO sdet - Entered Password
+2020-02-15 15:40:21,737 [main] INFO sdet - browser opened
+2020-02-15 15:40:22,247 [main] INFO sdet - Entered UserName
+2020-02-15 15:40:24,747 [main] INFO sdet - Entered Password
+2020-02-15 15:42:37,210 [main] INFO sdet - browser opened
+2020-02-15 15:42:37,570 [main] INFO sdet - Entered UserName
+2020-02-15 15:42:40,524 [main] INFO sdet - Entered Password
+2020-02-15 15:49:07,329 [main] INFO sdet - browser opened
+2020-02-15 15:49:07,728 [main] INFO sdet - Entered UserName
+2020-02-15 15:49:11,287 [main] INFO sdet - Entered Password
+2020-02-15 15:52:28,293 [main] INFO sdet - browser opened
+2020-02-15 15:52:28,832 [main] INFO sdet - Entered UserName
+2020-02-15 15:52:31,642 [main] INFO sdet - Entered Password
+2020-02-15 15:58:46,590 [main] INFO sdet - browser opened
+2020-02-15 15:58:47,324 [main] INFO sdet - Entered UserName
+2020-02-15 15:58:49,676 [main] INFO sdet - Entered Password
+2020-02-15 15:58:55,286 [main] INFO sdet - Login Test Passed
+2020-02-15 16:00:54,609 [main] INFO sdet - browser opened
+2020-02-15 16:00:55,003 [main] INFO sdet - Entered UserName
+2020-02-15 16:00:57,709 [main] INFO sdet - Entered Password
+2020-02-15 16:04:07,325 [main] INFO sdet - browser opened
+2020-02-15 16:04:07,709 [main] INFO sdet - Entered UserName
+2020-02-15 16:04:10,642 [main] INFO sdet - Entered Password
+2020-02-15 16:05:08,940 [main] INFO sdet - browser opened
+2020-02-15 16:05:09,436 [main] INFO sdet - Entered UserName
+2020-02-15 16:05:11,881 [main] INFO sdet - Entered Password
+2020-02-15 16:09:17,124 [main] INFO sdet - browser opened
+2020-02-15 16:09:17,723 [main] INFO sdet - Entered UserName
+2020-02-15 16:09:20,078 [main] INFO sdet - Entered Password
+2020-02-15 16:10:41,407 [main] INFO sdet - browser opened
+2020-02-15 16:10:41,864 [main] INFO sdet - Entered UserName
+2020-02-15 16:10:44,228 [main] INFO sdet - Entered Password
+2020-02-15 16:13:10,898 [main] INFO sdet - browser opened
+2020-02-15 16:13:10,898 [main] INFO sdet - browser opened
+2020-02-15 16:13:12,146 [main] INFO sdet - Entered UserName
+2020-02-15 16:13:12,672 [main] INFO sdet - Entered UserName
+2020-02-15 16:13:15,324 [main] INFO sdet - Entered Password
+2020-02-15 16:13:15,637 [main] INFO sdet - Entered Password
+2020-02-15 16:19:12,900 [main] INFO sdet - browser opened
+2020-02-15 16:19:13,272 [main] INFO sdet - Entered UserName
+2020-02-15 16:19:16,073 [main] INFO sdet - Entered Password
+2020-02-15 16:39:31,166 [main] INFO sdet - browser opened
+2020-02-15 16:39:31,617 [main] INFO sdet - Entered UserName
+2020-02-15 16:39:34,579 [main] INFO sdet - Entered Password
+2020-02-15 16:41:50,252 [main] INFO sdet - browser opened
+2020-02-15 16:41:50,634 [main] INFO sdet - Entered UserName
+2020-02-15 16:41:53,414 [main] INFO sdet - Entered Password
+2020-02-15 16:42:49,349 [main] INFO sdet - browser opened
+2020-02-15 16:42:49,740 [main] INFO sdet - Entered UserName
+2020-02-15 16:42:52,042 [main] INFO sdet - Entered Password
+2020-02-15 16:45:40,882 [main] INFO sdet - browser opened
+2020-02-15 16:45:41,242 [main] INFO sdet - Entered UserName
+2020-02-15 16:45:44,031 [main] INFO sdet - Entered Password
+2020-02-15 16:47:10,140 [main] INFO sdet - browser opened
+2020-02-15 16:47:10,715 [main] INFO sdet - Entered UserName
+2020-02-15 16:47:13,315 [main] INFO sdet - Entered Password
+2020-02-15 16:49:28,749 [main] INFO sdet - browser opened
+2020-02-15 16:49:29,168 [main] INFO sdet - Entered UserName
+2020-02-15 16:49:31,543 [main] INFO sdet - Entered Password
+2020-02-15 16:53:12,001 [main] INFO sdet - browser opened
+2020-02-15 16:53:12,524 [main] INFO sdet - Entered UserName
+2020-02-15 16:53:15,269 [main] INFO sdet - Entered Password
+2020-02-15 16:59:16,916 [main] INFO sdet - browser opened
+2020-02-15 16:59:17,334 [main] INFO sdet - Entered UserName
+2020-02-15 16:59:20,148 [main] INFO sdet - Entered Password
+2020-02-15 16:59:25,683 [main] INFO sdet - Login Test Passed
+2020-02-15 17:00:32,964 [main] INFO sdet - browser opened
+2020-02-15 17:00:33,398 [main] INFO sdet - Entered UserName
+2020-02-15 17:00:35,917 [main] INFO sdet - Entered Password
+2020-02-15 18:16:10,366 [main] INFO sdet - browser opened
+2020-02-15 18:16:12,997 [main] INFO sdet - Entered UserName
+2020-02-15 18:16:15,360 [main] INFO sdet - Entered Password
+2020-02-15 18:16:22,626 [main] INFO sdet - browser opened
+2020-02-15 18:16:22,991 [main] INFO sdet - Entered UserName
+2020-02-15 18:16:25,189 [main] INFO sdet - Entered Password
+2020-02-15 18:16:31,953 [main] INFO sdet - Login Passed
+2020-02-15 18:16:34,244 [main] INFO sdet - browser opened
+2020-02-15 18:16:44,301 [main] INFO sdet - browser opened
+2020-02-15 18:16:54,381 [main] INFO sdet - browser opened
+2020-02-15 18:20:02,208 [main] INFO sdet - browser opened
+2020-02-15 18:20:02,698 [main] INFO sdet - Entered UserName
+2020-02-15 18:20:05,285 [main] INFO sdet - Entered Password
+2020-02-15 18:20:13,045 [main] INFO sdet - browser opened
+2020-02-15 18:20:13,352 [main] INFO sdet - Entered UserName
+2020-02-15 18:20:15,563 [main] INFO sdet - Entered Password
+2020-02-15 18:20:21,025 [main] INFO sdet - Login Passed
+2020-02-15 18:20:23,298 [main] INFO sdet - browser opened
+2020-02-15 18:20:33,379 [main] INFO sdet - browser opened
+2020-02-15 18:20:43,425 [main] INFO sdet - browser opened
+2020-02-15 18:37:04,808 [main] INFO sdet - browser opened
+2020-02-15 18:37:05,447 [main] INFO sdet - Entered UserName
+2020-02-15 18:37:07,712 [main] INFO sdet - Entered Password
+2020-02-15 18:37:13,586 [main] INFO sdet - browser opened
+2020-02-15 18:37:17,235 [main] INFO sdet - Entered UserName
+2020-02-15 18:37:19,499 [main] INFO sdet - Entered Password
+2020-02-15 18:37:24,258 [main] INFO sdet - Login Passed
+2020-02-15 18:37:26,595 [main] INFO sdet - browser opened
+2020-02-15 18:37:36,646 [main] INFO sdet - browser opened
+2020-02-15 18:37:46,736 [main] INFO sdet - browser opened
+2020-02-15 18:39:38,792 [main] INFO sdet - browser opened
+2020-02-15 18:39:39,748 [main] INFO sdet - Entered UserName
+2020-02-15 18:39:42,188 [main] INFO sdet - Entered Password
+2020-02-15 18:39:45,948 [main] INFO sdet - browser opened
+2020-02-15 18:39:47,746 [main] INFO sdet - Entered UserName
+2020-02-15 18:39:50,018 [main] INFO sdet - Entered Password
+2020-02-15 18:39:55,368 [main] INFO sdet - Login Passed
+2020-02-15 18:39:57,587 [main] INFO sdet - browser opened
+2020-02-15 18:40:07,668 [main] INFO sdet - browser opened
+2020-02-15 18:40:17,784 [main] INFO sdet - browser opened
+2020-02-15 18:44:02,811 [main] INFO sdet - browser opened
+2020-02-15 18:44:05,382 [main] INFO sdet - Entered UserName
+2020-02-15 18:44:08,267 [main] INFO sdet - Entered Password
+2020-02-15 18:44:13,697 [main] INFO sdet - browser opened
+2020-02-15 18:44:18,022 [main] INFO sdet - Entered UserName
+2020-02-15 18:44:20,832 [main] INFO sdet - Entered Password
+2020-02-15 18:44:27,370 [main] INFO sdet - Login Passed
+2020-02-15 18:44:29,646 [main] INFO sdet - browser opened
+2020-02-15 18:44:39,762 [main] INFO sdet - browser opened
+2020-02-15 18:44:49,834 [main] INFO sdet - browser opened
+2020-02-15 18:49:52,401 [main] INFO sdet - browser opened
+2020-02-15 18:49:53,743 [main] INFO sdet - Entered UserName
+2020-02-15 18:49:56,154 [main] INFO sdet - Entered Password
+2020-02-15 18:50:00,147 [main] INFO sdet - browser opened
+2020-02-15 18:50:02,643 [main] INFO sdet - Entered UserName
+2020-02-15 18:50:05,274 [main] INFO sdet - Entered Password
+2020-02-15 18:50:10,087 [main] INFO sdet - Login Passed
+2020-02-15 18:50:12,418 [main] INFO sdet - browser opened
+2020-02-15 18:50:22,524 [main] INFO sdet - browser opened
+2020-02-15 18:50:32,646 [main] INFO sdet - browser opened
+2020-02-15 18:54:47,811 [main] INFO sdet - browser opened
+2020-02-15 18:54:48,578 [main] INFO sdet - Entered UserName
+2020-02-15 18:54:50,790 [main] INFO sdet - Entered Password
+2020-02-15 18:54:56,261 [main] INFO sdet - Login Test Passed
+2020-02-15 18:57:37,528 [main] INFO sdet - browser opened
+2020-02-15 18:57:37,873 [main] INFO sdet - Entered UserName
+2020-02-15 18:57:40,653 [main] INFO sdet - Entered Password
+2020-02-15 18:57:45,254 [main] INFO sdet - Login Test Passed
+2020-02-15 18:59:49,026 [main] INFO sdet - browser opened
+2020-02-15 18:59:49,444 [main] INFO sdet - Entered UserName
+2020-02-15 18:59:52,113 [main] INFO sdet - Entered Password
+2020-02-15 18:59:56,614 [main] INFO sdet - Login Test Passed
+2020-02-15 19:25:36,412 [main] INFO sdet - browser opened
+2020-02-15 19:25:37,212 [main] INFO sdet - Entered UserName
+2020-02-15 19:25:39,544 [main] INFO sdet - Entered Password
+2020-02-15 19:25:44,817 [main] INFO sdet - browser opened
+2020-02-15 19:25:49,233 [main] INFO sdet - Entered UserName
+2020-02-15 19:25:51,994 [main] INFO sdet - Entered Password
+2020-02-15 19:25:59,429 [main] INFO sdet - Login Passed
+2020-02-15 19:26:06,594 [main] INFO sdet - browser opened
+2020-02-15 19:26:06,926 [main] INFO sdet - Entered UserName
+2020-02-15 19:26:09,355 [main] INFO sdet - Entered Password
+2020-02-15 19:26:14,807 [main] INFO sdet - browser opened
+2020-02-15 19:26:18,630 [main] INFO sdet - Entered UserName
+2020-02-15 19:26:21,324 [main] INFO sdet - Entered Password
+2020-02-15 19:26:26,502 [main] INFO sdet - Login Passed
+2020-02-15 19:26:34,736 [main] INFO sdet - browser opened
+2020-02-15 19:26:35,039 [main] INFO sdet - Entered UserName
+2020-02-15 19:26:37,620 [main] INFO sdet - Entered Password
+2020-02-16 11:44:59,117 [main] INFO sdet - User name is provided
+2020-02-16 11:44:59,679 [main] INFO sdet - Password is provided
+2020-02-16 11:45:04,594 [main] INFO sdet - Selecting new customer
+2020-02-16 11:45:04,594 [main] INFO sdet - Providing customer details
+2020-02-16 11:46:11,329 [main] INFO sdet - User name is provided
+2020-02-16 11:46:11,756 [main] INFO sdet - Password is provided
+2020-02-16 11:46:16,412 [main] INFO sdet - Selecting new customer
+2020-02-16 11:46:16,412 [main] INFO sdet - Providing customer details
+2020-02-16 11:51:09,387 [main] INFO sdet - User name is provided
+2020-02-16 11:51:11,215 [main] INFO sdet - Password is provided
+2020-02-16 11:51:18,124 [main] INFO sdet - Selecting new customer
+2020-02-16 11:51:18,124 [main] INFO sdet - Providing customer details
+2020-02-16 11:54:24,126 [main] INFO sdet - User name is provided
+2020-02-16 11:54:24,341 [main] INFO sdet - Password is provided
+2020-02-16 11:54:29,573 [main] INFO sdet - Selecting new customer
+2020-02-16 11:54:29,574 [main] INFO sdet - Providing customer details
+2020-02-16 11:55:09,606 [main] INFO sdet - User name is provided
+2020-02-16 11:55:09,826 [main] INFO sdet - Password is provided
+2020-02-16 11:55:13,001 [main] INFO sdet - Selecting new customer
+2020-02-16 11:55:13,002 [main] INFO sdet - Providing customer details
+2020-02-16 11:55:28,074 [main] INFO sdet - Validation started
+2020-02-16 11:58:15,970 [main] INFO sdet - User name is provided
+2020-02-16 11:58:16,217 [main] INFO sdet - Password is provided
+2020-02-16 11:58:19,384 [main] INFO sdet - Selecting new customer
+2020-02-16 11:58:19,385 [main] INFO sdet - Providing customer details
+2020-02-16 11:58:34,209 [main] INFO sdet - Validation started
+2020-02-16 12:02:31,325 [main] INFO sdet - User name is provided
+2020-02-16 12:02:31,748 [main] INFO sdet - Password is provided
+2020-02-16 12:02:36,315 [main] INFO sdet - Selecting new customer
+2020-02-16 12:02:36,316 [main] INFO sdet - Providing customer details
+2020-02-16 12:03:21,497 [main] INFO sdet - User name is provided
+2020-02-16 12:03:21,917 [main] INFO sdet - Password is provided
+2020-02-16 12:03:24,468 [main] INFO sdet - Selecting new customer
+2020-02-16 12:03:24,469 [main] INFO sdet - Providing customer details
+2020-02-16 12:03:36,858 [main] INFO sdet - Validation started
+2020-02-16 12:05:15,713 [main] INFO sdet - User name is provided
+2020-02-16 12:05:16,035 [main] INFO sdet - Password is provided
+2020-02-16 12:05:18,556 [main] INFO sdet - Selecting new customer
+2020-02-16 12:05:18,557 [main] INFO sdet - Providing customer details
+2020-02-16 12:05:30,174 [main] INFO sdet - Validation started
+2020-02-16 12:06:14,504 [main] INFO sdet - User name is provided
+2020-02-16 12:06:14,776 [main] INFO sdet - Password is provided
+2020-02-16 12:06:16,865 [main] INFO sdet - Selecting new customer
+2020-02-16 12:06:16,866 [main] INFO sdet - Providing customer details
+2020-02-16 12:06:26,209 [main] INFO sdet - Validation started
+2020-02-16 12:07:04,626 [main] INFO sdet - User name is provided
+2020-02-16 12:07:04,890 [main] INFO sdet - Password is provided
+2020-02-16 12:07:18,110 [main] INFO sdet - Selecting new customer
+2020-02-16 12:07:18,111 [main] INFO sdet - Providing customer details
+2020-02-16 12:07:27,475 [main] INFO sdet - Validation started
+2020-02-16 14:23:24,421 [main] INFO sdet - User name is provided
+2020-02-16 14:23:25,676 [main] INFO sdet - Password is provided
+2020-02-16 14:23:28,533 [main] INFO sdet - Selecting new customer
+2020-02-16 14:23:28,534 [main] INFO sdet - Providing customer details
+2020-02-16 14:23:40,332 [main] INFO sdet - Validation started
+2020-02-16 14:24:39,235 [main] INFO sdet - User name is provided
+2020-02-16 14:24:39,546 [main] INFO sdet - Password is provided
+2020-02-16 14:24:42,093 [main] INFO sdet - Selecting new customer
+2020-02-16 14:24:42,095 [main] INFO sdet - Providing customer details
+2020-02-16 14:34:21,075 [main] INFO sdet - User name is provided
+2020-02-16 14:34:21,507 [main] INFO sdet - Password is provided
+2020-02-16 14:34:24,699 [main] INFO sdet - Selecting new customer
+2020-02-16 14:34:24,699 [main] INFO sdet - Providing customer details
+2020-02-16 14:34:36,692 [main] INFO sdet - Validation started
+2020-02-16 14:35:30,499 [main] INFO sdet - User name is provided
+2020-02-16 14:35:30,869 [main] INFO sdet - Password is provided
+2020-02-16 14:35:35,485 [main] INFO sdet - Selecting new customer
+2020-02-16 14:35:35,486 [main] INFO sdet - Providing customer details
+2020-02-16 14:35:46,288 [main] INFO sdet - Validation started
+2020-02-16 14:37:35,402 [main] INFO sdet - User name is provided
+2020-02-16 14:37:35,683 [main] INFO sdet - Password is provided
+2020-02-16 14:37:41,045 [main] INFO sdet - Selecting new customer
+2020-02-16 14:37:41,046 [main] INFO sdet - Providing customer details
+2020-02-16 14:38:01,323 [main] INFO sdet - Validation started
+2020-02-16 15:07:40,247 [main] INFO sdet - User name is provided
+2020-02-16 15:07:41,198 [main] INFO sdet - Password is provided
+2020-02-16 15:07:46,486 [main] INFO sdet - Selecting new customer
+2020-02-16 15:07:46,487 [main] INFO sdet - Providing customer details
+2020-02-16 15:08:05,769 [main] INFO sdet - Validation started
+2020-02-16 15:09:28,604 [main] INFO sdet - User name is provided
+2020-02-16 15:09:28,965 [main] INFO sdet - Password is provided
+2020-02-16 15:09:33,131 [main] INFO sdet - Selecting new customer
+2020-02-16 15:09:33,132 [main] INFO sdet - Providing customer details
+2020-02-16 15:09:54,687 [main] INFO sdet - Validation started
+2020-02-16 15:11:02,519 [main] INFO sdet - User name is provided
+2020-02-16 15:11:02,833 [main] INFO sdet - Password is provided
+2020-02-16 15:11:06,241 [main] INFO sdet - Selecting new customer
+2020-02-16 15:11:06,244 [main] INFO sdet - Providing customer details
+2020-02-16 15:11:30,852 [main] INFO sdet - Validation started
+2020-02-16 15:11:30,899 [main] INFO sdet - TEST CASE IS PASSED
+2020-02-16 15:12:46,121 [main] INFO sdet - browser opened
+2020-02-16 15:12:46,613 [main] INFO sdet - Entered UserName
+2020-02-16 15:12:48,868 [main] INFO sdet - Entered Password
+2020-02-16 15:12:54,302 [main] INFO sdet - Login Test Passed
+2020-02-16 15:13:32,461 [main] INFO sdet - browser opened
+2020-02-16 15:13:33,559 [main] INFO sdet - Entered UserName
+2020-02-16 15:13:35,872 [main] INFO sdet - Entered Password
+2020-02-16 15:13:40,471 [main] INFO sdet - browser opened
+2020-02-16 15:13:44,355 [main] INFO sdet - Entered UserName
+2020-02-16 15:13:47,202 [main] INFO sdet - Entered Password
+2020-02-16 15:13:53,850 [main] INFO sdet - Login Passed
+2020-02-16 15:14:01,881 [main] INFO sdet - browser opened
+2020-02-16 15:14:02,301 [main] INFO sdet - Entered UserName
+2020-02-16 15:14:04,581 [main] INFO sdet - Entered Password
+2020-02-16 15:14:08,452 [main] INFO sdet - browser opened
+2020-02-16 15:14:11,863 [main] INFO sdet - Entered UserName
+2020-02-16 15:14:14,651 [main] INFO sdet - Entered Password
+2020-02-16 15:14:22,154 [main] INFO sdet - Login Passed
+2020-02-16 15:14:30,884 [main] INFO sdet - browser opened
+2020-02-16 15:14:31,436 [main] INFO sdet - Entered UserName
+2020-02-16 15:14:33,800 [main] INFO sdet - Entered Password
+2020-02-16 15:14:54,261 [main] INFO sdet - User name is provided
+2020-02-16 15:14:54,630 [main] INFO sdet - Password is provided
+2020-02-16 15:14:58,973 [main] INFO sdet - Selecting new customer
+2020-02-16 15:14:58,974 [main] INFO sdet - Providing customer details
+2020-02-16 15:15:31,512 [main] INFO sdet - Validation started
+2020-02-16 15:15:31,538 [main] INFO sdet - TEST CASE IS PASSED
